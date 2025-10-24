@@ -1,10 +1,12 @@
 # Sahaara 🤝
+> 🌱 *Because sometimes, all we need is someone to talk to.*
+
 
 A peer-to-peer mental health support platform that connects individuals seeking and offering emotional support. Built with the MERN stack, Sahaara enables users to connect with supportive peers, engage in real-time chat, and conduct video calls for meaningful conversations.
 
 <img width="1469" height="800" alt="image" src="https://github.com/user-attachments/assets/58dcb19b-49bd-432e-98cc-9fc4bac7cd8a" />
 
-## 🌐 [Depolyed Website](https://sahaara-m6qg.onrender.com/)
+## 🌐 [Deployed Website](https://sahaara-m6qg.onrender.com/)
 
 
 
