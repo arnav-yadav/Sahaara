@@ -10,50 +10,29 @@ A peer-to-peer mental health support platform that connects individuals seeking 
 
 
 
-## 📸 Screenshots
-
-<!-- Add authentication screens -->
-<!-- ![Login Page](./screenshots/login.png) -->
-Login Page
-<img width="1469" height="801" alt="image" src="https://github.com/user-attachments/assets/47afc201-e431-4dda-8932-fc54fe9a53ec" />
-
-<!-- ![Signup Page](./screenshots/signup.png) -->
-Signup Page
-<img width="1470" height="798" alt="image" src="https://github.com/user-attachments/assets/91573d86-7ab5-441b-8ed2-3d993fbabbf5" />
-
-<!-- Add onboarding screen -->
-<!-- ![Onboarding](./screenshots/onboarding.png) -->
-Onboarding
-<img width="1470" height="801" alt="image" src="https://github.com/user-attachments/assets/1c9f22e4-3cf5-429f-974c-c7485033ee99" />
-
-<!-- Add main features screenshots -->
-Home Feed
-<img width="1467" height="798" alt="image" src="https://github.com/user-attachments/assets/e6416d65-4cac-4d00-9cf9-47b2f93e1d19" />
-
-<!-- ![Friends Page](./screenshots/friends.png) -->
-Friends Page
-<img width="1459" height="798" alt="image" src="https://github.com/user-attachments/assets/c690c60b-4ff4-44b5-bf68-084928ee59e7" />
-
-<!-- ![Chat Interface](./screenshots/chat.png) -->
-Chat Interface
-<img width="2939" height="1584" alt="image" src="https://github.com/user-attachments/assets/3d725cef-ac93-4bcf-b291-88471d08e913" />
-
-<!-- ![Video Call](./screenshots/video-call.png) -->
-Video Call
-<img width="1470" height="747" alt="image" src="https://github.com/user-attachments/assets/e4dac90c-9155-429a-8675-ce8d6d426796" />
-
-<!-- ![Notifications](./screenshots/notifications.png) -->
-Notifications
-<img width="1470" height="799" alt="image" src="https://github.com/user-attachments/assets/eee35910-b6f2-42ea-bfe4-bd8670ec6a9f" />
-
-
 ## ✨ Features
 
 - **User Authentication**: Secure signup/login with JWT-based authentication
+  <p align="center">
+  <img width=45% alt="image" src="https://github.com/user-attachments/assets/47afc201-e431-4dda-8932-fc54fe9a53ec" />
+  <img width=45% alt="image" src="https://github.com/user-attachments/assets/91573d86-7ab5-441b-8ed2-3d993fbabbf5" />
+  </p>
+
 - **Profile Onboarding**: Complete profile setup with support preferences
+  <img width="1470" height="801" alt="image" src="https://github.com/user-attachments/assets/1c9f22e4-3cf5-429f-974c-c7485033ee99" />
+
 - **Friend System**: Send, receive, and accept friend requests
+  <p align="center">
+  <img width=45% alt="image" src="https://github.com/user-attachments/assets/c690c60b-4ff4-44b5-bf68-084928ee59e7" />
+  <img width=45% alt="image" src="https://github.com/user-attachments/assets/eee35910-b6f2-42ea-bfe4-bd8670ec6a9f" />
+  </p>
+
 - **Real-time Chat**: Powered by Stream Chat for seamless messaging
+  <img width="2939" height="1584" alt="image" src="https://github.com/user-attachments/assets/3d725cef-ac93-4bcf-b291-88471d08e913" />
+
 - **Video Calls**: Integrated video calling using Stream Video SDK
+  <img width="1470" height="747" alt="image" src="https://github.com/user-attachments/assets/e4dac90c-9155-429a-8675-ce8d6d426796" />
+
 - **Friend Discovery**: Find peers based on support topics
 - **Theme Customization**: 30+ themes to personalize your experience
 - **Responsive Design**: Works seamlessly across devices
